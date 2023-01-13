@@ -1,6 +1,13 @@
 to run the python server, type:
 python -m venv venv
 
+then,
+on mac:
+source venv/bin/activate
+
+on windows powershell:
+venv\Scripts\activate
+
 and then
 python server.py
 
